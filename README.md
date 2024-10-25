@@ -2,7 +2,7 @@
 
 Una aplicación web moderna que permite explorar los personajes del universo de Rick y Morty, construida con React y TypeScript.
 
-[Rick y Morty Explorer](https://sage-cheesecake-aad02f.netlify.app/)
+[Rick y Morty Explorer](https://rickandmortyapiconsumed.netlify.app/)
 
 ## 🚀 Características
 
