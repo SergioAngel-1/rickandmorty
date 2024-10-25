@@ -2,8 +2,6 @@
 
 Una aplicación web moderna que permite explorar los personajes del universo de Rick y Morty, construida con React y TypeScript.
 
-![Rick y Morty Explorer](https://raw.githubusercontent.com/your-username/rick-morty-explorer/main/public/preview.png)
-
 ## 🚀 Características
 
 - Exploración de personajes con carga infinita
